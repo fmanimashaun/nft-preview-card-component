@@ -37,9 +37,9 @@ Your users should be able to:
 
 ![Desktop view](screenshots/desktop.png)
 
-#### Tablet view
+#### Desktop hover view
 
-![Desktop view](screenshots/tablet.png)
+![Desktop view hover](screenshots/desktop-hover.png)
 
 #### Mobile view
 
@@ -47,8 +47,8 @@ Your users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/fmanimashaun/skilled-elearning-landing-page)
-- [Live Site URL]( https://fmanimashaun.github.io/skilled-elearning-landing-page/)
+- [Solution URL](https://github.com/fmanimashaun/nft-preview-card-component)
+- [Live Site URL](https://fmanimashaun.github.io/nft-preview-card-component/)
 
 ## My process
 
