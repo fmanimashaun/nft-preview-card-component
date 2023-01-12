@@ -1,10 +1,9 @@
 /* import fonts */
 
-/* Robaga Rounded font */
+/* Outfitfont */
 @font-face {
-  font-family: 'Robaga Rounded';
-  src: url("../fonts/robaga_rounded/Robaga_Rounded_Regular.otf") format('TrueType');
-  font-weight: normal;
+  font-family: 'Outfit';
+  src: url("../fonts/Outfit/Outfit-VariableFont_wght.ttf") format('TrueType');
 }
 
-$primary-ff: 'Robaga Rounded', 'Arial Black', 'Arial Bold', sans-serif;
+$primary-ff: 'Outfit', sans-serif;

@@ -2,6 +2,7 @@
 /* stylelint-disable csstree/validator */
 @use './_fonts.scss';
 @use './_colors.scss';
+@use '_reset.scss';
 
 /* Global styles
 ------------------------------------ */
@@ -21,8 +22,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: fonts.$primary-ff;
-  font-weight: normal;
-  background-color: colors.$dark;
 }
 
 .container {
