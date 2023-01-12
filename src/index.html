@@ -15,19 +15,23 @@
     <!-- ***********************  PAGE MAIN *********************** -->
     <main class="main">
       <figure class="nft-card">
-       <div class="nft-card__img-wrapper">
-        <img class="ft-card__img" src="img/Rectangle.png" alt="picture of a cube standing with one of the edges">
+        <div class="nft-card__img-wrapper">
+          <img class="nft-card__img" src="img/Rectangle.png" alt="picture of a cube standing with one of the edges">
+          <div class="nft-card__img--hover" aria-hidden='true'><img src="img/Eye.png" alt="eye icon"></div>
+          
         </div>
         <figcaption class="nft-card__details">
-          <p class="nft-card__title">Equilibrium #3429</p>
+          <p class="nft-card__title"><a href="#" class='nft-card__title--link'>Equilibrium #3429</a></p>
           <p class="nft-card__description">Our Equilibrium collection promotes balance and calm.</p>
           <p class="nft-card__price-time">
-            <span class='nft-card__price'><img src='img/diamond.svg' alt='ETH icon'>0.041 ETH</span>
-            <span class='nft-card__time'><img src='img/clock.svg' alt='clock icon'>3 days left</span>
+            <span class='price'><img src='img/diamond.svg' alt='ETH icon'>0.041 ETH</span>
+            <span class='time'><img src='img/clock.svg' alt='clock icon'>3 days left</span>
           </p>
+          <hr class='nft-card__hl' aria-hidden='true'>
           <div class="nft-card__author">
             <img class="nft-card__author-img" src="img/profile_avatar.png" alt="Jules Wyvern">
-            <p class="nft-card__author-name">Creation of<span class="nft-card__author-name--white">Jules Wyvern</span></p>
+            <p class="nft-card__author-name">Creation of <a href='#' class="nft-card__author-name--link">Jules
+                Wyvern</a></p>
           </div>
         </figcaption>
       </figure>
