@@ -10,7 +10,7 @@
   max-width: 21.875rem;
   margin-inline: auto;
   background-color: colors.$dark-blue-500;
-  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.0952917);
   border-radius: 15px;
 
   &__img-wrapper {
@@ -42,8 +42,6 @@
       }
     }
   }
-
-
 
   &__title {
     font-weight: 600;
