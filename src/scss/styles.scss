@@ -1,6 +1,7 @@
 /* stylelint-disable at-rule-no-unknown */
 /* stylelint-disable csstree/validator */
 @use './global.scss';
-@use './_mixin.scss' as mixins;
 @use './_colors.scss';
 
+// import card component
+@use '_card.scss';
